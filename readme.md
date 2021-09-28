@@ -8,4 +8,4 @@ This project has a simple example how to use the boost-library in CMake built pr
 
 A bash-script is provided that runs the whole thing (install/build/run). 
 
-```$ run.sh```
+```$ ./run.sh```
